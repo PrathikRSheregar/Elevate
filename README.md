@@ -2,7 +2,7 @@
 Problem Statement: SmartUPI Offline: Enabling Secure Digital Transactions Without Internet Connectivity 
 Introduction
 
-UPI Lite is a small-value offline payment feature introduced by NPCI, enabling users to make small-value transactions (up to ₹200 per transaction and ₹2000 total balance) without needing an internet connection. This functionality ensures seamless payments even when the user's or merchant's device is offline.
+UPI Lite is a small-value offline payment feature introduced by NPCI, enabling users to make small-value transactions without needing an internet connection. This functionality ensures seamless payments even when the user's or merchant's device is offline.
 Transactions are stored locally on the device and synced with the bank later, with a unique transaction reference number (UTR) generated upon successful reconciliation.
 
 Features
